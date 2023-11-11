@@ -1,2 +1,2 @@
-# https://gabrielaraujopereira.github.io/stopmotion
+# https://gabrielaraujopereira.github.io/Stop-Motion
 stop motion ods
